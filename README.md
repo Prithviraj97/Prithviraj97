@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prithviraj97
+- 👋 Hi, I’m @Prithviraj97. Thank You for visiting my profile!!
 - 👀 I’m interested in general Machine Learning, Computer Vision, Reinforcement Learning and other cool AI and software engineering stuffs.
 - 🌱 I’m currently learning ML with focus on Computer Vision
 - 💞️ I’m looking to collaborate on 3D object detection and trajectory prediction.
