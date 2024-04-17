@@ -1,4 +1,9 @@
-
+- 👋 Hi, I’m @Prithviraj97. Thank You for visiting my profile!!
+- 👀 I’m interested in general Machine Learning, Computer Vision, Reinforcement Learning, and other cool AI and software engineering stuff.
+- 🌱 I’m currently learning ML with a focus on Computer Vision
+- 💞️ I’m looking to collaborate on 3D object detection and trajectory prediction.
+- 📫 How to reach me prithvirajsingh351@gmail.com
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Prithvi Raj Singh](https://www.facebook.com/prithviraj.singh.96343)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithvi-singh25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prithvirajsingh351) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheEarthG) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prithvi15573761) 
 
